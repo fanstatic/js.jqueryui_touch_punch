@@ -36,6 +36,7 @@ setup(
     install_requires=[
         'fanstatic',
         'setuptools',
+        'js.jqueryui',
         ],
     entry_points={
         'fanstatic.libraries': [
